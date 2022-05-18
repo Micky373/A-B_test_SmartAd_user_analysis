@@ -1,4 +1,4 @@
-# SmartAd's BIO Service Analysis
+# A-B_Test_SmartAd_user_analysis
 
 ## Results Live Demo
 
@@ -6,7 +6,7 @@
 
 **Table of content**
 
-- [Telecom User Analytics](#Telecom_user_analytics)
+- [Smart Ad user analytics](#A-B_Test_SmartAd_user_analysis)
   - [Overview](#overview)
   - [Requirements](#requirements)
   - [Install](#install)
@@ -18,15 +18,14 @@
 
 ## Overview
 
-SmartAd is a mobile first advertiser agency. It designs intuitive touch-enabled advertising.
-The main objective of this project is to test if the ads that the advertising company runs resulted in a significant lift in brand awareness. 
+The repo is all about A/B testing by using two groups the exposed and control group. The exposed group were given the smart ad about brand LUX where as the control groups were given some dummy ad about the brand LUX. Classical and Statistical A/B testing has been used to test. After all the tests our aim is to increase the efficiency of our BIO (Brand Impact Optimization) 
 
 ## Requirements
   Python 3.7 and above
 
 ## Install
 ```
-git clone https://github.com/benbel376/SmartAd_service_analysis.git
+git clone https://github.com/Micky373/A-B_test_SmartAd_user_analysis
 cd SmartAd_service_analysis
 pip install -r requirements.txt
 ```
@@ -41,8 +40,8 @@ pip install -r requirements.txt
 
 SmartAd ran this campaign from 3-10 July 2020. The users that were presented with the questionnaire above were chosen according to the following rule:
 
-**Control:** users who have been shown a dummy ad
-**Exposed:** users who have been shown a creative (ad) that was designed by SmartAd for the client.
+`Control:` users who have been shown a dummy ad
+`Exposed:` users who have been shown a creative (ad) that was designed by SmartAd for the client.
 
 ## Features
 
