@@ -5,4 +5,4 @@ pandas
 scikit_learn
 seaborn
 plotly
-© 2022 GitHub, In
+pandasql
