@@ -2,7 +2,7 @@
 
 ## Our Pipe line design
 
-![Image here](./ML%2Bpipeline%2BDesign%2Bflow%2Bchart.png)
+![Image here](./charts/ML%2Bpipeline%2BDesign%2Bflow%2Bchart.png)
 
 **Table of content**
 
